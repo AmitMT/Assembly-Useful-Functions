@@ -4,7 +4,7 @@ This TASM project can help you create a custom game using these usefull function
 
 ## Including:
 
-* graphics - screen, circle, square, bitmap, lines, tables
+* graphics - screen, circles, squares, bitmaps, lines, tables
 * keyboard input
 * gameloop
 * time delay
