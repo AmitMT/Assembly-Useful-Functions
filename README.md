@@ -1,6 +1,6 @@
 # Assembly Useful Functions
 
-This TASM project can help you create a custom game using these usefull functions.
+This TASM project can help you create a custom game using these usefull functions 👆🏻
 
 ## Including:
 
